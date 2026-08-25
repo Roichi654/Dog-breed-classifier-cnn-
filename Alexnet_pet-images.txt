@@ -1,0 +1,8 @@
+Results Summary for CNN Model Architecture: ALEXNET
+N Images: 40
+N Dog Images: 30
+N Not-Dog Images: 10
+pct_match: 81.67%
+pct_correct_dogs: 100.00%
+pct_correct_breed: 81.67%
+pct_correct_notdogs: 100.00%
